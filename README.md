@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Julio López, I studied Electronic Enginneering but my passion is Web Development. Therefore I decided to become a Web Developer. My experience comes from doing numerous courses and self-studying.
+My name is Julio López, I studied Electronic Enginneering but my passion is Web Development. That's why I decided to become a Web Developer. My experience comes from doing numerous courses and self-studying.
 
 - 🔭 I’m currently looking for Jobs while I'm studying every day to improve my skills.
 - 🌱 I’m currently learning Node and improving my React and React Native skills.
